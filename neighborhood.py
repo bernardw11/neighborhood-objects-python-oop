@@ -37,7 +37,7 @@
 
 
 
-# Level 4:
+# Level 4: (Stretch)
 # Put your three students in a list called my_students, your houses in a list for houses, and your schools in a list for schools.
 
 
@@ -46,4 +46,13 @@
 
 
 
-# Iterate over the houses list and print out a description for each one. Do the same for your schools lista.
+# Iterate over the houses list and print out a description for each one. Do the same for your schools lists.
+
+
+
+# Level 5: (Stretch)
+# Modify your student class above to include a savings_account value for each student. Change your initializers so that the code still runs. 
+
+
+
+# Write some code that compares a student and a house, and determines whether or not the student can afford to buy the house. 
