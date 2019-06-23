@@ -33,7 +33,7 @@
 
 
 
-# Confirm that the class works by printing out the name and size of the second house.
+# Confirm that the class works by printing out the address and size of the second house.
 
 
 
