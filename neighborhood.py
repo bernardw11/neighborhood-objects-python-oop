@@ -29,7 +29,7 @@
 
 
 
-# Create instances of at least three individual houses using.
+# Create instances of at least three individual houses.
 
 
 
